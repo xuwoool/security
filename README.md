@@ -13,7 +13,6 @@
 
 视频作者：[JoJo](http://www.imooc.com/t/3554172)
 
-![jojo](./doc/img/jojo.jpg)
 
 # 章节目录和总结文档
 
